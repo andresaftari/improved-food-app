@@ -30,4 +30,10 @@
     <string name="menu_about">ABOUT</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_favorite">Favorite</string>
+
+    <!-- Profile -->
+    <string name="profile_name">PRASIDYA PRAMADRESANA SAFTARI</string>
+    <string name="profile_link">https://www.linkedin.com/in/prasidya-pramadresana-saftari/</string>
+    <string name="profile_email">andresaftari@gmail.com</string>
+    <string name="profile_instagram">instagram.com/andresaftari/</string>
 </resources>
